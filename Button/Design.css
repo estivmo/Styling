@@ -1,0 +1,31 @@
+
+#btn-1 {
+    height: 50px;
+    width: 100px;
+    font-family:fantasy;
+    color: rgb(112, 229, 212);
+    display:inline-flexbox;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#btn-2 {
+    border-radius: 50%;
+    color: white;
+    background-color: teal;
+    
+    
+
+}
+#btn-3 {
+    color:white;
+	font-family:serif;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px black;
+    background-color: blue;
+    
+    
+    
+}
